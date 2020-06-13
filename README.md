@@ -11,5 +11,5 @@ El script ejecuta secuencialmente los siguientes bloques de código:
 
 * Se armarán bloques hasta llegar al final del audio y finalmente se recortaran en bloques entre 4:30 y 5:30
 
-# NOTA:
+**NOTA:**
 Los ficheros procesados se moverán al directorio audios/cut/name_audio/name_audio.wav junto con los ficheros recortados
